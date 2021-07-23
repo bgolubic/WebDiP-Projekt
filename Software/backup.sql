@@ -1,0 +1,8 @@
+INSERT INTO rodendan VALUES ('1', '1', '1', 'Rođendan 1', 'Opis rođendana 1. update', '2021-06-30')
+INSERT INTO rodendan VALUES ('3', '1', '5', 'Rođendan 2', 'Opis rođendana 2.', '')
+INSERT INTO rodendan VALUES ('4', '1', '6', 'Rođendan 3', 'Opis rođendana 3.', '')
+INSERT INTO materijali VALUES ('6', 'short (audio).mp3', 'Audio', '/bgolubic/zadaca_04')
+INSERT INTO materijali VALUES ('7', 'slika1.jpg', 'Slika', '/bgolubic/zadaca_04')
+INSERT INTO materijali VALUES ('8', 'slika2.jpg', 'Slika', '/bgolubic/zadaca_04')
+INSERT INTO materijali VALUES ('9', 'yt1s.com - A 20 second video of Lake Louise(1).mp4', 'Video', '/bgolubic/zadaca_04')
+INSERT INTO materijali VALUES ('10', 'slika6.jpg', 'Slika', '/bgolubic/zadaca_04')

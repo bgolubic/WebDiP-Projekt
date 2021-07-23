@@ -1,0 +1,48 @@
+@import "bgolubic.css";
+@media only screen and (min-width: 364px) and (max-width: 1300px){
+    .navigacija > a.active{
+        background-color: lightgray;
+    }
+}
+
+body{
+    background-color: black;
+    font-size: 20px;
+    letter-spacing: 5px;
+    word-spacing: 15px;
+}
+
+nav > ul li{
+    background-color: white;
+}
+
+nav > ul li a{
+    color: black;
+}
+
+.active{
+    background-color: gray;
+}
+
+.email{
+    color: white;
+    text-decoration: none;
+}
+
+nav > ul li a:hover{
+    color: white;
+    background-color: darkgray;
+}
+
+footer > address a{
+    color: lightgray;
+    text-decoration: none;
+}
+
+footer > address a:hover{
+    text-decoration: underline;
+}
+
+.email:hover{
+    text-decoration: underline;
+}
